@@ -1,0 +1,16 @@
+D:\Tool\TranMac\TranMac\bin\Debug\TranMac.exe
+D:\Tool\TranMac\TranMac\bin\Debug\TranMac.pdb
+D:\Tool\TranMac\TranMac\bin\Debug\TranMac.xml
+D:\Tool\TranMac\TranMac\obj\x86\Debug\TranMac.Resources.resources
+D:\Tool\TranMac\TranMac\obj\x86\Debug\TranMac.vbproj.GenerateResource.Cache
+D:\Tool\TranMac\TranMac\obj\x86\Debug\TranMac.exe
+D:\Tool\TranMac\TranMac\obj\x86\Debug\TranMac.xml
+D:\Tool\TranMac\TranMac\obj\x86\Debug\TranMac.pdb
+D:\PTE_Bose_Phelps\TranMac\TranMac\obj\x86\Debug\TranMac.exe
+D:\PTE_Bose_Phelps\TranMac\TranMac\obj\x86\Debug\TranMac.xml
+D:\PTE_Bose_Phelps\TranMac\TranMac\obj\x86\Debug\TranMac.pdb
+D:\PTE_Bose_Phelps\TranMac\TranMac\bin\Debug\TranMac.exe
+D:\PTE_Bose_Phelps\TranMac\TranMac\bin\Debug\TranMac.pdb
+D:\PTE_Bose_Phelps\TranMac\TranMac\bin\Debug\TranMac.xml
+D:\PTE_Bose_Phelps\TranMac\TranMac\obj\x86\Debug\TranMac.Resources.resources
+D:\PTE_Bose_Phelps\TranMac\TranMac\obj\x86\Debug\TranMac.vbproj.GenerateResource.Cache
